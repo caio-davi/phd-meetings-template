@@ -1,6 +1,8 @@
 # Meetings Logs
 
-Summary of the Ph.D. meetings:
+#### [Biblio tracking](./biblio/README.md)
+
+#### Meetings
 
 | Date          | Subject            | Summary                                 | Link                               |
 | ------------- | ------------------ | --------------------------------------- | ---------------------------------- |
